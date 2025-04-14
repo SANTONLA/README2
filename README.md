@@ -42,9 +42,9 @@
 ###
 
 <div align="left">
-  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/github/github-original.svg)" height="40" alt="R logo"  />
+  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/github/github-original.svg" height="40" alt="Github"  />
   <img width="12" />
-  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/kaggle/kaggle-original.svg)" height="40" alt="python logo"  />
+  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"  />
   <img width="12" />
   <img src="https://github.com/SANTONLA/devicon/blob/master/icons/anaconda/anaconda-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
