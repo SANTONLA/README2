@@ -1,15 +1,9 @@
 # README2
+
 <h1 align="left"👋 ¡Hola! Soy @SANTONLAR.</h1>
 
 ###
 
-🔍 Me interesa SQL, Matlab, R Studio, Python y Github. Además, ¡soy una entusiasta del aprendizaje automático! 😊 También estoy interesada en el desarrollo web, especialmente en HTML, CSS y JavaScript. 💻
-
-🌱 Actualmente estoy enfocada en perfeccionar mis habilidades en Python. ¡Puedes ver algunos de mis ejercicios en mi repositorio! 🐍 Me apasiona el análisis de datos y la visualización de información, utilizando herramientas como Tableau o Power BI. 📊
-
-💞️ Estoy buscando colaborar en proyectos tanto en R como en Python. Además de aprender, me encanta compartir conocimientos y ayudar a otros a crecer en su camino hacia la programación y el análisis de datos. ¡Si necesitas ayuda o tienes alguna pregunta, no dudes en contactarme! 👨‍💻
-
-📫 ¿Cómo puedes contactarme? ¡Es sencillo! Solo envía un tweet a: @santonlar 🐦
 
 ###
 
@@ -17,7 +11,15 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  
+🔍 Me interesa SQL, Matlab, R Studio, Python y Github. Además, ¡soy una entusiasta del aprendizaje automático! 😊 También estoy interesada en el desarrollo web, especialmente en HTML, CSS y JavaScript. 💻
+
+🌱 Actualmente estoy enfocada en perfeccionar mis habilidades en Python. ¡Puedes ver algunos de mis ejercicios en mi repositorio! 🐍 Me apasiona el análisis de datos y la visualización de información, utilizando herramientas como Tableau o Power BI. 📊
+
+💞️ Estoy buscando colaborar en proyectos tanto en R como en Python. Además de aprender, me encanta compartir conocimientos y ayudar a otros a crecer en su camino hacia la programación y el análisis de datos. ¡Si necesitas ayuda o tienes alguna pregunta, no dudes en contactarme! 👨‍💻
+
+📫 ¿Cómo puedes contactarme? ¡Es sencillo! Puedes hacerlo en cualquiera de mis redes
 
 ###
 
