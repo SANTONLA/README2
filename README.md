@@ -28,9 +28,9 @@
 ###
 
 <div align="left">
-  <img src="[icons/r/r-original.svg](https://github.com/SANTONLA/devicon/blob/master/icons/r/r-original.svg)" height="40" alt="R logo"  />
+  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/r/r-original.svg" height="40" alt="R logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://github.com/SANTONLA/devicon/blob/master/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
